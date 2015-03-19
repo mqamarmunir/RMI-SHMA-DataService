@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RMI_DataService.Service1" CodeBehind="DataService.svc.cs" %>

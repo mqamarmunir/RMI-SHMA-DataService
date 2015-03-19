@@ -1,0 +1,66 @@
+D:\Exercise\RMI_DataService\RMI_DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\Exercise\RMI_DataService\RMI_DataService\bin\RMI_DataService.dll
+D:\Exercise\RMI_DataService\RMI_DataService\bin\RMI_DataService.pdb
+D:\Exercise\RMI_DataService\RMI_DataService\obj\Debug\RMI_DataService.dll
+D:\Exercise\RMI_DataService\RMI_DataService\obj\Debug\RMI_DataService.pdb
+C:\Users\Public\Documents\RMI_DataService\RMI_DataService\RMI_DataService\bin\RMI_DataService.dll
+C:\Users\Public\Documents\RMI_DataService\RMI_DataService\RMI_DataService\bin\RMI_DataService.pdb
+C:\Users\Public\Documents\RMI_DataService\RMI_DataService\RMI_DataService\obj\Debug\RMI_DataService.dll
+C:\Users\Public\Documents\RMI_DataService\RMI_DataService\RMI_DataService\obj\Debug\RMI_DataService.pdb
+D:\February 2014\RMI_DataService\RMI_DataService\RMI_DataService\RMI_DataService\bin\RMI_DataService.dll
+D:\February 2014\RMI_DataService\RMI_DataService\RMI_DataService\RMI_DataService\bin\RMI_DataService.pdb
+D:\February 2014\RMI_DataService\RMI_DataService\RMI_DataService\RMI_DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\February 2014\RMI_DataService\RMI_DataService\RMI_DataService\RMI_DataService\obj\Debug\RMI_DataService.dll
+D:\February 2014\RMI_DataService\RMI_DataService\RMI_DataService\RMI_DataService\obj\Debug\RMI_DataService.pdb
+D:\Exercise\RMI_DataService June 23rd\RMI_DataService\bin\RMI_DataService.dll
+D:\Exercise\RMI_DataService June 23rd\RMI_DataService\bin\RMI_DataService.pdb
+D:\Exercise\RMI_DataService June 23rd\RMI_DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\Exercise\RMI_DataService June 23rd\RMI_DataService\obj\Debug\RMI_DataService.dll
+D:\Exercise\RMI_DataService June 23rd\RMI_DataService\obj\Debug\RMI_DataService.pdb
+E:\Projects\RMI_DataService June 23rd\RMI_DataService\bin\RMI_DataService.dll
+E:\Projects\RMI_DataService June 23rd\RMI_DataService\bin\RMI_DataService.pdb
+E:\Projects\RMI_DataService June 23rd\RMI_DataService\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\RMI_DataService June 23rd\RMI_DataService\obj\Debug\RMI_DataService.dll
+E:\Projects\RMI_DataService June 23rd\RMI_DataService\obj\Debug\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService June 27\RMI_DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\WorkingCopy of DataService June 27\RMI_DataService\obj\Debug\RMI_DataService.dll
+D:\Projects\WorkingCopy of DataService June 27\RMI_DataService\obj\Debug\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService June 27\RMI_DataService\bin\RMI_DataService.dll
+D:\Projects\WorkingCopy of DataService June 27\RMI_DataService\bin\RMI_DataService.pdb
+D:\WorkingCopy of DataService June 27\RMI_DataService\obj\Debug\RMI_DataService.dll
+D:\WorkingCopy of DataService June 27\RMI_DataService\obj\Debug\RMI_DataService.pdb
+D:\WorkingCopy of DataService June 27\RMI_DataService\bin\RMI_DataService.dll
+D:\WorkingCopy of DataService June 27\RMI_DataService\bin\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService June 28\RMI_DataService\bin\RMI_DataService.dll
+D:\Projects\WorkingCopy of DataService June 28\RMI_DataService\bin\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService June 28\RMI_DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\WorkingCopy of DataService June 28\RMI_DataService\obj\Debug\RMI_DataService.dll
+D:\Projects\WorkingCopy of DataService June 28\RMI_DataService\obj\Debug\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService July 1st\RMI_DataService\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\WorkingCopy of DataService July 1st\RMI_DataService\obj\Debug\RMI_DataService.dll
+D:\Projects\WorkingCopy of DataService July 1st\RMI_DataService\bin\RMI_DataService.dll
+D:\Projects\WorkingCopy of DataService July 1st\RMI_DataService\bin\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService July 1st\RMI_DataService\obj\Debug\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService July 2nd\RMI_DataService\obj\Debug\RMI_DataService.dll
+D:\Projects\WorkingCopy of DataService July 2nd\RMI_DataService\bin\RMI_DataService.dll
+D:\Projects\WorkingCopy of DataService July 2nd\RMI_DataService\bin\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService July 2nd\RMI_DataService\obj\Debug\RMI_DataService.pdb
+D:\Projects\WorkingCopy of DataService July 2nd\RMI_DataService\obj\Debug\RMI_DataService.csprojResolveAssemblyReference.cache
+E:\U\WorkingCopy of DataService Oct 2\RMI_DataService\bin\RMI_DataService.dll
+E:\U\WorkingCopy of DataService Oct 2\RMI_DataService\bin\RMI_DataService.pdb
+E:\U\WorkingCopy of DataService Oct 2\RMI_DataService\obj\Debug\RMI_DataService.csprojResolveAssemblyReference.cache
+E:\U\WorkingCopy of DataService Oct 2\RMI_DataService\obj\Debug\RMI_DataService.dll
+E:\U\WorkingCopy of DataService Oct 2\RMI_DataService\obj\Debug\RMI_DataService.pdb
+E:\U\WorkingCopy of DataService Oct 30\RMI_DataService\obj\Debug\RMI_DataService.csprojResolveAssemblyReference.cache
+E:\U\WorkingCopy of DataService Oct 30\RMI_DataService\obj\Debug\RMI_DataService.dll
+E:\U\WorkingCopy of DataService Oct 30\RMI_DataService\bin\RMI_DataService.dll
+E:\U\WorkingCopy of DataService Oct 30\RMI_DataService\bin\RMI_DataService.pdb
+E:\U\WorkingCopy of DataService Oct 30\RMI_DataService\obj\Debug\RMI_DataService.pdb
+E:\RMIWorking\WorkingCopy of DataService Oct 30\RMI_DataService\bin\RMI_DataService.dll
+E:\RMIWorking\WorkingCopy of DataService Oct 30\RMI_DataService\bin\RMI_DataService.pdb
+E:\RMIWorking\WorkingCopy of DataService Oct 30\RMI_DataService\obj\Debug\RMI_DataService.dll
+E:\RMIWorking\WorkingCopy of DataService Oct 30\RMI_DataService\obj\Debug\RMI_DataService.pdb
+E:\WorkingCopy of DataService Dec 31\RMI_DataService\bin\RMI_DataService.dll
+E:\WorkingCopy of DataService Dec 31\RMI_DataService\bin\RMI_DataService.pdb
+E:\WorkingCopy of DataService Dec 31\RMI_DataService\obj\Debug\RMI_DataService.dll
+E:\WorkingCopy of DataService Dec 31\RMI_DataService\obj\Debug\RMI_DataService.pdb

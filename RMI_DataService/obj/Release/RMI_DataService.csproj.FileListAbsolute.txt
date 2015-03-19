@@ -1,0 +1,5 @@
+D:\Muhammad Qamar\RMI\WorkingCopy of DataService Feb 6th\RMI_DataService\bin\RMI_DataService.dll
+D:\Muhammad Qamar\RMI\WorkingCopy of DataService Feb 6th\RMI_DataService\bin\RMI_DataService.pdb
+D:\Muhammad Qamar\RMI\WorkingCopy of DataService Feb 6th\RMI_DataService\obj\Release\RMI_DataService.dll
+D:\Muhammad Qamar\RMI\WorkingCopy of DataService Feb 6th\RMI_DataService\obj\Release\RMI_DataService.pdb
+D:\Muhammad Qamar\RMI\WorkingCopy of DataService Feb 6th\RMI_DataService\obj\Release\RMI_DataService.csprojResolveAssemblyReference.cache
